@@ -2,53 +2,59 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Yousef Dergham's profile!
+  Welcome to Mohamed Rshad's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Android%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+- 📱 I'm a dedicated Android Developer and a Computer Science student on a mission to create exceptional mobile experiences using Java and Kotlin.
+
+- 👨‍🎓 Currently pursuing my Computer Science degree, I'm passionate about merging theoretical knowledge with practical app development skills.
+
+- 💡 My areas of expertise include Java and Kotlin, the dynamic duo powering Android app development, and I'm continuously exploring emerging technologies in the mobile development landscape.
+
+- 💬 Feel free to connect with me to discuss Android development, best practices, and mobile app architecture. I'm always excited to share insights and collaborate on innovative projects.
+
+- ⚙️ When I'm not coding, you can find me tinkering with new libraries, optimizing app performance, and exploring creative solutions to real-world problems.
+
+- 📂 Check out my GitHub repositories to explore some of my Android projects and contributions to the developer community. I'm committed to building robust and user-friendly apps.
 
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-rshad-1b119a235/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Rshad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/M_Rshad" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Rshad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://wa.me/qr/JRKWQ2GG43AZK1" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Rshad-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=007ACC)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)
+![Android Architecture Components](https://img.shields.io/badge/-Android%20Architecture%20Components-05122A?style=flat&logo=android)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![Retrofit](https://img.shields.io/badge/-Retrofit-05122A?style=flat&logo=retrofit)
+![OkHttp](https://img.shields.io/badge/-OkHttp-05122A?style=flat&logo=okhttp)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+![Room](https://img.shields.io/badge/-Room-05122A?style=flat&logo=room)
+![Android Jetpack](https://img.shields.io/badge/-Android%20Jetpack-05122A?style=flat&logo=android)
+![Material Design](https://img.shields.io/badge/-Material%20Design-05122A?style=flat&logo=material-design)
+![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle)
+![RxJava](https://img.shields.io/badge/-RxJava-05122A?style=flat&logo=reactivex)
+![Kotlin Coroutines](https://img.shields.io/badge/-Kotlin%20Coroutines-05122A?style=flat&logo=kotlin)
+![XML](https://img.shields.io/badge/-XML-05122A?style=flat&logo=xml)
+![Hilt](https://img.shields.io/badge/-Hilt-05122A?style=flat&logo=hilt)
+![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B)
 
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed11Rshad&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Mohamed11Rshad&style=for-the-badge">
 </a>
 
-<div align="center">
-<p>Have a good day!</p>
-<div>
-<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
-</div>
-</div>
