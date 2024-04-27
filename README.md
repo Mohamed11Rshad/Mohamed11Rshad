@@ -11,13 +11,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Android%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 📱 I'm a dedicated Android Developer and a Computer Science student on a mission to create exceptional mobile experiences using Java and Kotlin.
+- 📱 I'm a dedicated Mobile Application Developer and a Computer Science student on a mission to create exceptional mobile experiences using Java and Kotlin.
 
 - 👨‍🎓 Currently pursuing my Computer Science degree, I'm passionate about merging theoretical knowledge with practical app development skills.
 
-- 💡 My areas of expertise include Java and Kotlin, the dynamic duo powering Android app development, and I'm continuously exploring emerging technologies in the mobile development landscape.
+- 💡 My areas of expertise include Java, Kotlin and flutter, the dynamic duo powering Mobile app development, and I'm continuously exploring emerging technologies in the mobile development landscape.
 
-- 💬 Feel free to connect with me to discuss Android development, best practices, and mobile app architecture. I'm always excited to share insights and collaborate on innovative projects.
+- 💬 Feel free to connect with me to discuss Mobile development, best practices, and mobile app architecture. I'm always excited to share insights and collaborate on innovative projects.
 
 - ⚙️ When I'm not coding, you can find me tinkering with new libraries, optimizing app performance, and exploring creative solutions to real-world problems.
 
