@@ -30,6 +30,7 @@
 <a href="https://t.me/M_Rshad" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Rshad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://wa.me/qr/JRKWQ2GG43AZK1" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Rshad-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=007ACC)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)
